@@ -9,7 +9,7 @@
 Just trying to get this package making to work.
 }
 \author{
-\strong{Maintainer}: Octavia Dancu \email{octavia-maria.dancu@email.mcgill.ca} (YOUR-ORCID-ID)
+\strong{Maintainer}: Octavia Dancu \email{octavia-maria.dancu@mail.mcgill.ca} (YOUR-ORCID-ID)
 
 }
 \keyword{internal}
