@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.org/octaviamd/rpkgs.svg?branch=master)](https://travis-ci.org/octaviamd/rpkgs)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/octaviamd/rpkgs?branch=master&svg=true)](https://ci.appveyor.com/project/octaviamd/rpkgs)
 <!-- badges: end -->
 
 The goal of rpkgs is to …
@@ -35,6 +37,11 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(rpkgs)
+#> Registered S3 methods overwritten by 'ggplot2':
+#>   method         from 
+#>   [.quosures     rlang
+#>   c.quosures     rlang
+#>   print.quosures rlang
 ## basic example code
 ```
 
